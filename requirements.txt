@@ -1,0 +1,9 @@
+# pandas/numpy kept — brain.py / min_scanner.py are pulled from the Tradingbot
+# repo at runtime and I haven't seen their import lines, so I can't confirm
+# they're unused. Drop these two only after confirming that.
+flask
+requests
+pandas
+numpy
+google-genai
+gunicorn
